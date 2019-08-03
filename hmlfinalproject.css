@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  font-family: "Didot-Regular", "Palatino Linotype", "Book Antiqua", Palatino,
+    serif;
+  background-color: lavender;
+}
+#menu {
+  background-color: rgb(70, 104, 128);
+  padding: 18px;
+  margin: none;
+  text-transform: capitalize;
+}
+.menu-link {
+  text-decoration: none;
+  text-transform: uppercase;
+  padding: 10px;
+  color: white;
+}
+
+.item {
+  color: white;
+  padding: 14px;
+}
+.item a {
+  color: white;
+}
+
+p {
+  font-family: "Didot-Regular", "Palatino Linotype", "Book Antiqua", Palatino,
+    serif;
+  font-size: 20px;
+  text-align: center;
+  font-style: normal;
+}
+
+.row {
+  float: left;
+  width: 29%;
+  margin-left: 3rem;
+  padding: -15px;
+  border-radius: 1.5rem;
+}
+
+.row h3 {
+  font-family: "Didot-Regular", "Palatino Linotype", "Book Antiqua", Palatino,
+    serif;
+  font-size: 18px;
+  text-align: center;
+  background-color: white;
+  padding-top: 18px;
+  padding-bottom: 18px;
+  margin-top: -0.5%;
+  margin-bottom: 2rem;
+}
+.section {
+  border-radius: 1.5rem;
+}
